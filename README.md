@@ -4,10 +4,11 @@
 Hello, there!
 ```
 
-![](https://github-readme-stats.vercel.app/api?username=shaoyihao&theme=tokyonight&show_icons=true)
 
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaoyihao&layout=compact&hide_progress=true) -->
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaoyihao&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaoyihao&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 <!---
 shaoyihao/shaoyihao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
