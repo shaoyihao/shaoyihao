@@ -1,7 +1,7 @@
 <!-- <img src="https://profile-counter.glitch.me/shaoyihao/count.svg" /> -->
 
 ```cpp
-Hello, there!
+Hi, there!
 ```
 
 
